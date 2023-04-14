@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @shoopapa
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning SwiftUI/amplify/graphql
-- 📫 How to reach me joedavis29@gmail.com
+I work at janus-ai.com on the automations team
+I’m currently working professionally and personally in TS, expo, kube, argo, monorepo, trpc, next
+-joedavis29@gmail.com
 
 <!---
 shoopapa/shoopapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
