@@ -1,5 +1,5 @@
-I work at janus-ai.com on the automations team
-I’m currently working professionally and personally in TS, expo, kube, argo, monorepo, trpc, next
+I am a founding engineer at KayN a healthcare automation company.
+I’m currently working professionally and personally in TS, with a focus in RPA
 -joedavis29@gmail.com
 
 <!---
