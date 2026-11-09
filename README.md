@@ -1,5 +1,4 @@
-I am a founding engineer at KayN, a healthcare automation company.
-I’m currently working professionally and personally in TS, with a focus in RPA
+CTO and founder of lightningLMS
 
 joedavis29@gmail.com
 
